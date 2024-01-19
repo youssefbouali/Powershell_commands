@@ -1,0 +1,1 @@
+csvde -f c:\toto.csv -r "(name=April*)" -l DN,objectClass,sAMAccountName,sn,givenName,userPrincipalName
